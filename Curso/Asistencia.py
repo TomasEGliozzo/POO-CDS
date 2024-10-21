@@ -1,0 +1,2 @@
+class Asistencia:
+    pass

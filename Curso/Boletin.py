@@ -1,0 +1,2 @@
+class Boletin:
+    pass
