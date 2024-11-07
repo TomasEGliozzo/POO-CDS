@@ -1,2 +1,3 @@
-class Estudiante:
+import Persona
+class Estudiante(Persona):
     pass

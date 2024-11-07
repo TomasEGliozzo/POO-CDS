@@ -1,2 +1,3 @@
-class PersonalAdministrativo:
+import Persona
+class PersonalAdministrativo(Persona):
     pass

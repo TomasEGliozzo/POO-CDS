@@ -1,2 +1,3 @@
-class PadreTutor:
+import Persona
+class PadreTutor(Persona):
     pass

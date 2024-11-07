@@ -1,2 +1,3 @@
-class Profesor:
+import Persona
+class Profesor(Persona):
     pass

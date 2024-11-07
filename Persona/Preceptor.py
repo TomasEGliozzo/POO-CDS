@@ -1,2 +1,3 @@
-class Preceptor:
+import Persona
+class Preceptor(Persona):
     pass

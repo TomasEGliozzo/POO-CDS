@@ -1,2 +1,3 @@
-class Directivo:
+import Persona
+class Directivo(Persona):
     pass

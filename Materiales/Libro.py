@@ -1,2 +1,3 @@
-class Libro:
+import Stock
+class Libro(Stock):
     pass
