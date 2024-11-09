@@ -1,2 +1,4 @@
+import Colegio
+
 class Stock:
-    pass
+    colegio = Colegio()

@@ -1,8 +1,5 @@
+import Colegio
+
 class Persona:
-    #atributos globales
-
-    #atributos locales
-
-    #funcionalidades
-    pass
+    colegio = Colegio()
 
