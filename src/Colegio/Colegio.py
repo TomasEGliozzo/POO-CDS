@@ -1,5 +1,6 @@
 class Colegio:
-    def __init__(self,aulas,oficinas,direccion,notebooks):
+    def __init__(self,nombre,aulas,oficinas,direccion,notebooks):
+        self.nombre = nombre
         self.aulas = aulas
         self.oficinas = oficinas
         self.direccion = direccion
